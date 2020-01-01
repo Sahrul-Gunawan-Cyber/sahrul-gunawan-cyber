@@ -1,1 +1,30 @@
-zeeLl62mwTnm+swPlzl9kcXC3zuUuT21W9FJERKrF8waPfp7w8/bBtw0LUM23WgfjvR9jUM86SgxNilOnpVYoJmp7uSoHnSOgeZ6Sohv9N/XZ1qpJy/kyQrA84bI0ziZXLKaAgotVB11pDZfWW4ikSl/B1zi28Yy2RN2tuGvyWaR1+mco6LAv1nPVsaB9Z2qrkNvGJ1uw1aIMgTtR0JAHLsor0XW89A2qeBagg3nusaX6Gu+f0PlM5A+QujP9Vjkk7nr9AczMPg=
+Tool-x is a tool for Termux users
+
+we can install some kali linux tools with this tool
+
+follow these steps to install this tool in Termux
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/Rajkumrdusad/Tool-X
+
+$ cd Tool-X
+
+$ chmod +x *
+
+$ sh install.aex
+
+usage :
+
+To run this tool type 
+
+$ Tool-X
+
+Now select or type number to install any tool
+#Readme.md Tool-X By Sahrul Gunawan 
