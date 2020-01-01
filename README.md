@@ -12,7 +12,7 @@ $ apt upgrade
 
 $ apt install git
 
-$ git clone https://github.com/Rajkumrdusad/Tool-X
+$ git clone https://github.com/Sahrul-Gunawan-Cyber/sahrul-gunawan-cyber
 
 $ cd Tool-X
 
